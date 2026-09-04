@@ -3,144 +3,144 @@ msgstr ""
 "Project-Id-Version: jaspRobustTTests 0.95.0\n"
 "POT-Creation-Date: 2025-06-21 04:00\n"
 "PO-Revision-Date: 2026-09-04 13:43+0000\n"
-"Last-Translator: Wendel Paulo Silvestre <wpsilvestre@ucs.br>\n"
-"Language-Team: Portuguese <https://hosted.weblate.org/projects/jasp/"
-"jasprobustttests-r/pt/>\n"
-"Language: pt\n"
+"Last-Translator: Zahid Rizky Fakhri <zahidrizkyfakhri@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/jasp/"
+"jasprobustttests-r/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2026.9\n"
 
 msgid "%s%% CI"
-msgstr "IC de %s%%"
+msgstr "%s%% CI"
 
 msgid "Mean"
-msgstr "Média"
+msgstr "Rerata"
 
 msgid "Median"
-msgstr "Mediana"
+msgstr "Median"
 
 msgid "Lower"
-msgstr "Inferior"
+msgstr "Bawah"
 
 msgid "Upper"
-msgstr "Superior"
+msgstr "Atas"
 
 msgid "ESS"
-msgstr "SQE"
+msgstr "ESS"
 
 msgid "R-hat"
 msgstr "R-hat"
 
 msgid "The effect size corresponds to the standardized mean difference of group '%1$s' - '%2$s'."
 msgstr ""
-"O tamanho do efeito corresponde à diferença média padronizada dos grupos "
-"'%1$s' - '%2$s'."
+"Ukuran efek sesuai dengan perbedaan rerata terstandardisasi grup '%1$s' - "
+"'%2$s'."
 
 msgid "The standard deviation ratio corresponds to the ratio of standard deviations of group '%1$s' / '%2$s'."
 msgstr ""
-"A razão dos desvios padrões corresponde ao quociente dos desvios padrões dos "
-"grupos '%1$s' / '%2$s'."
+"Rasio deviasi standar sesuai dengan rasio deviasi standar grup '%1$s' / "
+"'%2$s'."
 
 msgid "The precision allocation corresponds to the proportion of total precision allocated to group '%1$s'."
 msgstr ""
-"A precisão de alocação corresponde à proporção da precisão total alocada ao "
-"grupo '%1$s'."
+"Alokasi presisi sesuai dengan proporsi presisi total dialokasikan ke grup "
+"'%1$s'."
 
 msgid "Effect size (%s)"
-msgstr "Tamanho de efeito (%s)"
+msgstr "Ukuran efek (%s)"
 
 msgid "Precision allocation (%s)"
-msgstr "Alocação de precisão (%s)"
+msgstr "Alokasi presisi (%s)"
 
 msgid "Degrees of freedom (%s)"
-msgstr "Graus de liberdade (%s)"
+msgstr "Derajat kebebasan (%s)"
 
 msgid "Prior Plots"
-msgstr "Gráficos Anteriores"
+msgstr "Diagram Priori"
 
 msgid "Effect"
-msgstr "Efeito"
+msgstr "Efek"
 
 msgid "Unequal variances"
-msgstr "Variâncias desiguais"
+msgstr "Varians tidak sama"
 
 msgid "Outliers"
-msgstr "Valores atípicos"
+msgstr "Outlier"
 
 msgid "Null"
-msgstr "Nulo"
+msgstr "Null"
 
 msgid "Alternative"
-msgstr "Alternativo"
+msgstr "Alternatif"
 
 msgid "Model Preview"
-msgstr "Previsão do Modelo"
+msgstr "Pratinjau Model"
 
 msgid "Please specify a prior distribution for each parameter in the Models specification section (either null or alternative)."
 msgstr ""
-"Por favor, especifique uma distribuição anterior para cada parâmetro na "
-"seção de especificação de Modelos (seja nulo ou alternativo)."
+"Silakan tentukan distribusi priori untuk setiap parameter di bagian "
+"spesifikasi Model (baik null atau alternatif)."
 
 msgid "Model Summary"
-msgstr "Resumo do Modelo"
+msgstr "Ringkasan Model"
 
 msgid "Models"
-msgstr "Modelos"
+msgstr "Model"
 
 msgid "P(M)"
 msgstr "P(M)"
 
 msgid "This analysis uses MCMC and might require a prolonged time to complete."
 msgstr ""
-"Esta análise utiliza MCMC e pode requerer um tempo prolongado para ser "
-"finalizada."
+"Analisis ini menggunakan MCMC dan mungkin memerlukan waktu lama untuk "
+"menyelesaikan."
 
 msgid "Model Specification Preview"
-msgstr "Visualização da Especificação do Modelo"
+msgstr "Pratinjau Spesifikasi Model"
 
 msgid "Prior Distribution"
-msgstr "Distribuição Anterior"
+msgstr "Distribusi Priori"
 
 msgid "Distribution"
-msgstr "Distribuição"
+msgstr "Distribusi"
 
 msgid "The analysis will estimate multiple models using MCMC and might require a prolonged time to complete."
 msgstr ""
-"A análise irá estimar múltiplos modelos usando MCMC e pode requer um tempo "
-"prolongado para ser finalizada."
+"Analisis akan mengestimasikan beberapa model menggunakan MCMC dan mungkin "
+"memerlukan waktu lama untuk menyelesaikan."
 
 msgid "Summary"
-msgstr "Resumo"
+msgstr "Ringkasan"
 
 msgid "Conditional Estimates"
-msgstr "Estimativas Condicionais"
+msgstr "Estimasi Kondisional"
 
 msgid "Inclusion BF"
-msgstr "FB da Inclusão"
+msgstr "BF Inklusi"
 
 msgid "Exclusion BF"
-msgstr "FB da Exclusão"
+msgstr "BF Ekslusi"
 
 msgid "log(Inclusion BF)"
-msgstr "log(Inclusion BF)"
+msgstr "log(BF Inklusi)"
 
 msgid "P(M|data)"
-msgstr "P(M|dado)"
+msgstr "P(M|data)"
 
 msgid "Warning:"
-msgstr "Aviso:"
+msgstr "Peringatan:"
 
 msgid "%1$i observations were removed due to missing values."
-msgstr "%1$i observações foram removidas devido a valores ausentes."
+msgstr "%1$i observasi telah dihapus karena nilai hilang."
 
 msgid "Model Averaged Estimates"
-msgstr "Estimativas Médias do Modelo"
+msgstr "Estimasi Model Direrata"
 
 msgid "Models Overview"
-msgstr "Visão Geral dos Modelos"
+msgstr "Ikhtisar Model"
 
 msgid "BF%s"
 msgstr "BF%s"
@@ -152,75 +152,75 @@ msgid "log(MargLik)"
 msgstr "log(MargLik)"
 
 msgid "Individual Models Summary"
-msgstr "Resumo dos Modelos Individuais"
+msgstr "Ringkasan Model Individu"
 
 msgid "Model #"
-msgstr "Modelo #"
+msgstr "Model #"
 
 msgid "Priors"
-msgstr "Anteriores"
+msgstr "Priori"
 
 msgid "Information"
-msgstr "Informação"
+msgstr "Informasi"
 
 msgid "Model Estimates"
-msgstr "Estimativas do Modelo"
+msgstr "Estimasi Model"
 
 msgid "Model %i"
-msgstr "Modelo %i"
+msgstr "Model %i"
 
 msgid "Model %1$i does not exist. Select one of the models between 1 and %2$i."
-msgstr "O modelo %1$i não existe. Selecione um dos modelos entre 1 e %2$i."
+msgstr "Model %1$i tidak ada. Pilih satu dari model antara 1 dan %2$i."
 
 msgid "Posterior Distribution Plots"
-msgstr "Gráficos de Distribuição Posterior"
+msgstr "Diagram Distribusi Posterior"
 
 msgid "Conditional"
-msgstr "Condicional"
+msgstr "Kondisional"
 
 msgid "Model Averaged"
-msgstr "Modelo Médio"
+msgstr "Model Direrata"
 
 msgid "Effect Size Estimate"
-msgstr "Estimativa do Tamanho de Efeito"
+msgstr "Estimasi Ukuran Efek"
 
 msgid "Heterogeneity Estimate (Precision Allocation)"
-msgstr "Estimativa de Heterogeneidade (Alocação de Precisão)"
+msgstr "Estimasi Heterogenitas (Alokasi Presisi)"
 
 msgid "Outliers Estimate (Degrees of Freedom)"
-msgstr "Estimativa de Valores Atípicos (Graus de Liberdade)"
+msgstr "Estimasi Outlier (Derajat Kebebasan)"
 
 msgid "Diagnostics"
-msgstr "Diagnóstico"
+msgstr "Diagnostik"
 
 msgid "Models Diagnostics Overview"
-msgstr "Visão Geral dos Modelos de Diagnóstico"
+msgstr "Ikhtisar Diagnostik Model"
 
 msgid "min(ESS)"
-msgstr "min(SQE)"
+msgstr "min(ESS)"
 
 msgid "max(R-hat)"
-msgstr "max(R-hat)"
+msgstr "maks(R-hat)"
 
 msgid "MCMC Diagnostics plots are created once both the plotted parameter ('Plot') and the plot type ('Type') options are selected."
 msgstr ""
-"Os gráficos de diagnóstico MCMC são criados uma vez que as opções do "
-"parâmetro plotado ('Gráfico') e o tipo de gráfico ('Tipo') são selecionadas."
+"Diagram Diagnostik MCMC dibuat setelah kedua opsi parameter terdiagram "
+"('Diagram') dan jenis diagram ('Jenis') dipilih."
 
 msgid "Heterogeneity (Precision Allocation)"
-msgstr "Heterogeneidade (Alocação de Precisão)"
+msgstr "Heterogennitas (Alokasi Presisi)"
 
 msgid "Outliers (Degrees of Freedom)"
-msgstr "Valores Atípicos (Graus de Liberdade)"
+msgstr "Outlier (Derajat Kebebasan)"
 
 msgid "Trace plots"
-msgstr "Gráfico de Traços"
+msgstr "Diagram lacak"
 
 msgid "Average autocorrelations"
-msgstr "Autocorrelações médias"
+msgstr "Korelasi otomatis rata-rata"
 
 msgid "Posterior samples densities"
-msgstr "Denisdades posteriores das amostras"
+msgstr "Kepadatan sampel posterior"
 
 msgid "Model %i does not contain any of the selected parameters."
-msgstr "O modelo %i não contém nenhum dos parâmetros selecionados."
+msgstr "Model %i tidak dapat berisi parameter terpilih apa pun."
